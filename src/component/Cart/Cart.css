@@ -1,0 +1,9 @@
+.cart-design{
+    width:300px;
+    border:1px solid black;
+    background-color:hsl(240, 76%, 31%);
+    margin:0 3px 0 3px;
+    padding:10px;
+    color:white;
+
+}
